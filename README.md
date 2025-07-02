@@ -1,6 +1,15 @@
-### Hi there, I'm Rongkun Xue. 👋
+### Career & Education History
 
-- 🌱 I’m a Master student in [Xi'an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/), Artificial Intelligence Department, China.
-- ❤️ My research interests are in vision-and-language learning  
+- 🔬 **Researcher**, ByteDance Inc. ([bytedance.com](https://bytedance.com))  
+  _2025.03 – Present_
+
+- 🔬 **Researcher**, Shanghai Artificial Intelligence Laboratory ([pjlab.org.cn](https://pjlaboratory.org.cn/))  
+  _2024.03 – 2025.03_
+
+- 🎓 **M.S. student, Artificial Intelligence**, Xi’an Jiaotong University ([xjtu.edu.cn](https://www.xjtu.edu.cn/))  
+  _2023 – 2026_
+
+- 🎓 **B.S. student**, Xi’an Jiaotong University ([xjtu.edu.cn](https://www.xjtu.edu.cn/))  
+  _2019 – 2023_
 
 ![luogen1996's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=rongkunxue&show_icons=true&theme=cobalt)
