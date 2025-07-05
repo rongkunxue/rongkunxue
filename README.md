@@ -9,7 +9,7 @@
 - 🎓 **M.S. student, Artificial Intelligence**, Xi’an Jiaotong University ([xjtu.edu.cn](https://www.xjtu.edu.cn/))  
   _2023 – 2026_
 
-- 🎓 **B.S. student**, Xi’an Jiaotong University ([xjtu.edu.cn](https://www.xjtu.edu.cn/))  
+- 🎓 **B.S. student,Automation**, Xi’an Jiaotong University ([xjtu.edu.cn](https://www.xjtu.edu.cn/))  
   _2019 – 2023_
 
 
