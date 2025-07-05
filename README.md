@@ -3,7 +3,7 @@
 - 🔬 **Researcher**, ByteDance Inc. ([bytedance.com](https://bytedance.com))  
   _2025.03 – Present_
 
-- 🔬 **Researcher**, Shanghai Artificial Intelligence Laboratory ([pjlab.org.cn](https://pjlaboratory.org.cn/))  
+- 🔬 **Researcher**, Shanghai Artificial Intelligence Laboratory ([pjlab.org.cn](https://www.shlab.org.cn))  
   _2024.03 – 2025.03_
 
 - 🎓 **M.S. student, Artificial Intelligence**, Xi’an Jiaotong University ([xjtu.edu.cn](https://www.xjtu.edu.cn/))  
